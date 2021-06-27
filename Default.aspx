@@ -22,7 +22,7 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="col-sm-6">
-									<h2 style="color:palevioletred;font-family:'Berlin Sans FB'">Holi Sale<span></span></h2>
+									<h2 style="color:palevioletred;font-family:'Berlin Sans FB'">Mansoon Sale<span></span></h2>
 
                                     <h1 style="color:chocolate;font-family:'Berlin Sans FB'">20% Off<span></span></h1>
 
